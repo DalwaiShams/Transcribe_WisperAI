@@ -1,0 +1,10 @@
+Hello everyone, I'm Shams Del Wai, a proud member of Metamorphs, and today I'm thrilled to present
+one of the most exciting projects we've been working on, a solution that converts any audio
+file into a text file. Our team, Metamorphs, is dedicated to creating innovative and transformative
+technologies, and this project is no exception. In the digital era, the need to convert audio data
+into readable text is more critical than ever. Whether you're transcribing meetings, converting
+podcasts, or processing spoken content for analysis, transforming audio into text brings
+efficiency and accessibility. This project was born out of the desire to make audio content
+easier to manipulate, analyze, and repurpose across various domains. From creating searchable
+archives of interviews and lectures to enabling real-time transcription in education or business
+settings, the scope of this technology is far-reaching.
